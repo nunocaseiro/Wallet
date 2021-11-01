@@ -1,0 +1,18 @@
+{
+  "name": "websocketserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket-io": "^1.0.0",
+    "socket.io": "^2.3.0",
+    "vue-socket.io": "^3.0.7",
+    "vue-toasted": "^1.1.27"
+  }
+}
